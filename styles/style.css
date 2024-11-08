@@ -1,0 +1,19 @@
+.goit1 {
+    color: blueviolet;
+    border: dotted
+}
+p {
+font-size: 20px;
+border: chocolate;
+}
+.test h1 {
+    background-color: aqua;
+    color: blue;
+    text-shadow: 50%;
+}
+.test ul {
+    color: rgb(103, 67, 23);
+    text-align: left;
+    border: black;
+    
+}
